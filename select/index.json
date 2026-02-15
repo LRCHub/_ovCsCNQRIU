@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "花雨",
+  "base_artist": "She's",
+  "createdAt": "2026-02-15T17:15:45.812541Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "花雨",
+      "artist": "陈昇",
+      "has_synced": true,
+      "path": "select/01_花雨_陈昇.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "花雨",
+      "artist": "陈升",
+      "has_synced": false,
+      "path": "select/02_花雨_陈升.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "花雨",
+      "artist": "Bobby Chen",
+      "has_synced": true,
+      "path": "select/03_花雨_Bobby_Chen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "花雨",
+      "artist": "陳昇 Bobby Chen",
+      "has_synced": true,
+      "path": "select/04_花雨_陳昇_Bobby_Chen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花雨",
+      "artist": "SHE'S",
+      "has_synced": false,
+      "path": "select/pl_01_花雨_SHE'S.txt"
+    }
+  ]
+}
